@@ -16,4 +16,4 @@ spec:
     spec:
       containers:
       - name: hello
-        image: digitwintech/gitops:hellov1.1
+        image: digitwintech/gitops:hellov1.0
